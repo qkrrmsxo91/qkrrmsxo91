@@ -12,7 +12,7 @@
 
 ### Tech
 
-Kotlin, Spring Boot, JPA, MySQL, Redis, AWS (ECS, S3, SSM), JavaScript, TypeScript
+Kotlin, Spring Boot, JPA, MySQL, Redis, AWS (S3, EC2, RDS, SSM), JavaScript, TypeScript
 
 ### Work
 
